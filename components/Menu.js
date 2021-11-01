@@ -52,5 +52,7 @@ window.addEventListener('load', () => {
 
   Step 5: Don't forget to return your div.menu.
 
+  
   Step 6: Use 'menuMaker' to create a menu using the 'menuItems' array, and append the returned menu to the header.
 */
+
